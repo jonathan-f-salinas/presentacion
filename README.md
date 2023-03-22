@@ -1,2 +1,2 @@
 
-la presentacion está en la rama "maestro"
+la presentacion está en la rama "master"
